@@ -60,5 +60,5 @@
  Follow Me On instagram.
 </p>
   <a href="https://www.instagram.com/its.prince.roy/">
-    <img src="https://te.legra.ph/file/9b4187f9501db585f971c.jpg" width="100" height="150">
+    <img src="https://te.legra.ph/file/9b4187f9501db585f971c.jpg" width="100" height="100">
 </p>
