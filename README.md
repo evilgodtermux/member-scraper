@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-bMerZKbriRY/X0YzqiPFCsI/AAAAAAAAAP8/1GHlVlmMGcQsHu8cxeK1o5WkTe2VeXlDgCLcBGAsYHQ/s1652/Picture_20200826_152605754.jpg" width="470" height="470">
+  <img src="https://1.bp.blogspot.com/-bMerZKbriRY/X0YzqiPFCsI/AAAAAAAAAP8/1GHlVlmMGcQsHu8cxeK1o5WkTe2VeXlDgCLcBGAsYHQ/s1652/Picture_20200826_152605754.jpg" width="470" height="200">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-  Telegram Scraper Adder
+  Telegram Scraper
 </p>
 <p align="center">
   wtf, is it
@@ -21,7 +21,7 @@
 ---
 
 ## • API Setup
-* Go to http://my.telegram.org  and log in or use @s4h_api_idbot .
+* Go to http://my.telegram.org  and log in or use t.me/@s4h_api_idbot .
 * Click on API development tools and fill the required fields.
 * put app name you want & select other in platform Example :
 * copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
@@ -51,7 +51,7 @@
 `$ python adder.py`
 
 ## • for any help pm me
-* @rowdy_spammer1bot
+* t.me/@rowdy_spammer1bot
 ---
 
 <p align="center">
