@@ -18,7 +18,7 @@
 
 ---
 
-### • API ID and API HASH Setup
+## • API ID and API HASH Setup
 * Go to http://my.telegram.org  and log in or use [@s4h_api_idbot](https://t.me/s4h_api_idbot) 
 
 * Click on API development tools and fill the required fields.
@@ -28,7 +28,7 @@
 * copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
 
 
-### • How To Install and Use In Termux
+## • How To Install and Use In Termux
 
 `$ pkg up -y`
 
@@ -52,12 +52,12 @@
 
 `$ python adder.py`
 
-### • for any help pm me
+## • for any help pm me
 * [@Rowdyspammer1bot](https://t.me/Rowdy_spammer1bot)
 ---
 
 <p align="center">
-### •  Follow Me On instagram.
+ Follow Me On instagram.
 </p>
   <a href="https://www.instagram.com/its.prince.roy/">
     <img src="https://telegra.ph/file/dfe289c1cfbf18cd3d0a7.jpg" width="100" height="150">
