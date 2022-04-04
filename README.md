@@ -38,7 +38,7 @@
 
 `$ git clone https://github.com/Romeoheree/member-scrapper`
 
-`$ cd Telegram-Scraper-Adder`
+`$ cd member-scrapper`
 
 * Install requierments & Setup Configuration File. ( apiID, apiHash )
 
