@@ -1,3 +1,6 @@
+<h1 align="center">
+  <b>s⃟c⃟r⃟a⃟p⃟🅼🅴🅼🅱🅴🆁🆂</b>
+</h1>
 <p align="center">
   <img src="https://1.bp.blogspot.com/-bMerZKbriRY/X0YzqiPFCsI/AAAAAAAAAP8/1GHlVlmMGcQsHu8cxeK1o5WkTe2VeXlDgCLcBGAsYHQ/s1652/Picture_20200826_152605754.jpg" width="470" height="200">
 </p>
@@ -17,9 +20,13 @@
 
 ## • API Setup
 * Go to http://my.telegram.org  and log in or use [@s4h_api_idbot](https://t.me/s4h_api_idbot) 
+
 * Click on API development tools and fill the required fields.
+
 * put app name you want & select other in platform Example :
+
 * copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
+
 
 ## • How To Install and Use In Termux
 
@@ -37,11 +44,11 @@
 
 `$ python setup.py`
 
-* To Scarpe members from group.
+* To scrape members from group.
 
 `$ python scraper.py`
 
-* Add Scarped members to your group. 
+* Add Scraped members to your group. 
 
 `$ python adder.py`
 
@@ -50,8 +57,8 @@
 ---
 
 <p align="center">
-  Follow Me On
+  Follow Me On instagram.
 </p>
   <a href="https://www.instagram.com/its.prince.roy/">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="100" height="100">
+    <img src="https://telegra.ph/file/dfe289c1cfbf18cd3d0a7.jpg" width="100" height="150">
 </p>
