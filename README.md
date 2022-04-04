@@ -57,7 +57,7 @@
 ---
 
 <p align="center">
- Follow Me On instagram.
+ Follow Me On instagram(its.prince.roy)or click on the icon below..
 </p>
   <a href="https://www.instagram.com/its.prince.roy/">
     <img src="https://te.legra.ph/file/9b4187f9501db585f971c.jpg" width="100" height="100">
