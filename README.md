@@ -21,7 +21,7 @@
 ---
 
 ## • API Setup
-* Go to http://my.telegram.org  and log in or use https://t.me/@s4h_api_idbot 
+* Go to http://my.telegram.org  and log in or use [@s4h_api_idbot](https://t.me/s4h_api_idbot) 
 * Click on API development tools and fill the required fields.
 * put app name you want & select other in platform Example :
 * copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
@@ -51,7 +51,7 @@
 `$ python adder.py`
 
 ## • for any help pm me
-* t.me/@rowdy_spammer1bot
+* [@Rowdyspammer1bot](https://t.me/Rowdy_spammer1bot)
 ---
 
 <p align="center">
