@@ -2,7 +2,7 @@
   <b>🅢🅒🅡🅐🅟 🅼🅴🅼🅱🅴🆁🆂</b>
 </h1>
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-bMerZKbriRY/X0YzqiPFCsI/AAAAAAAAAP8/1GHlVlmMGcQsHu8cxeK1o5WkTe2VeXlDgCLcBGAsYHQ/s1652/Picture_20200826_152605754.jpg" width="470" height="200">
+  <img src="https://te.legra.ph/file/fe038317100b15fd981bb.jpg" width="470" height="200">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.01-red"></p>
@@ -60,5 +60,5 @@
  Follow Me On instagram.
 </p>
   <a href="https://www.instagram.com/its.prince.roy/">
-    <img src="https://telegra.ph/file/dfe289c1cfbf18cd3d0a7.jpg" width="100" height="150">
+    <img src="https://te.legra.ph/file/9b4187f9501db585f971c.jpg" width="100" height="150">
 </p>
