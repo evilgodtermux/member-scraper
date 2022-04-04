@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>s⃟c⃟r⃟a⃟p⃟🅼🅴🅼🅱🅴🆁🆂</b>
+  <b>🅢🅒🅡🅐🅟 🅼🅴🅼🅱🅴🆁🆂</b>
 </h1>
 <p align="center">
   <img src="https://1.bp.blogspot.com/-bMerZKbriRY/X0YzqiPFCsI/AAAAAAAAAP8/1GHlVlmMGcQsHu8cxeK1o5WkTe2VeXlDgCLcBGAsYHQ/s1652/Picture_20200826_152605754.jpg" width="470" height="200">
@@ -13,7 +13,7 @@
   Telegram Scraper
 </p>
 <p align="center">
-  wtf, is it
+  Termux script 🌚 
 </p>
 
 ---
