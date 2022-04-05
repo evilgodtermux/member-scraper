@@ -20,7 +20,7 @@ print (gr+" ║ ├┤ │  ├┤ ║ ╦  ╠═╣ ││ ││├┤ ├┬
 print (re+" ╩ └─┘┴─┘└─┘╚═╝  ╩ ╩─┴┘─┴┘└─┘┴└─")
 
 print (cy+"version : 1.01")
-print (cy+"Make sure you followed Romeoheree on instagram")
+print (cy+"Make sure you followed evilgodtermux on instagram")
 print (cy+"https://www.instagram.com/its.prince.roy/")
 
 print (re+"NOTE :")
