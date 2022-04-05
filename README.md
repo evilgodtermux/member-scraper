@@ -19,7 +19,7 @@
 ---
 
 ## • API ID and API HASH Setup
-* Go to http://my.telegram.org  and log in or use [@s4h_api_idbot](https://t.me/s4h_api_idbot) 
+* Go to [telegram](http://my.telegram.org)  and log in or use [@s4h_api_idbot](https://t.me/s4h_api_idbot) 
 
 * Click on API development tools and fill the required fields.
 
@@ -36,9 +36,9 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/Romeoheree/member-scrapper`
+`$ git clone https://github.com/evilgodtermux/member-scraper`
 
-`$ cd member-scrapper`
+`$ cd member-scraper`
 
 * Install requierments & Setup Configuration File. ( apiID, apiHash )
 
@@ -53,7 +53,7 @@
 `$ python adder.py`
 
 ## • for any help pm me
-* [@Rowdyspammer1bot](https://t.me/Rowdy_spammer1bot)
+* [@rowdyy_here](https://t.me/Rowdyy_here)
 ---
 
 <p align="center">
