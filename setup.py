@@ -1,5 +1,5 @@
 #!/bin/env python3
-# code by : Romeoheree
+# recoded by : evilgodtermux
 
 """
 
@@ -20,7 +20,7 @@ def banner():
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
 	
 	           Version : 1.01
-	{re}follow Romeoheree on instagram
+	{re}follow evilgodtermux on instagram
 	{cy}https://www.instagram.com/its.prince.roy/
 	""")
 banner()
@@ -43,4 +43,4 @@ setup.close()
 print(gr+"[+] setup complete !")
 print(gr+"[+] now you can run any tool !")
 print(gr+"[+] make sure to read docs 4 installation & api setup")
-print(gr+"[+] https://github.com/Romeoheree/member-scrapper/main/README.md")
+print(gr+"[+] https://github.com/evilgodtermux/member-scraper/main/README.md")
