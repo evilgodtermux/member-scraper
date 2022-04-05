@@ -17,7 +17,7 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
               Version : 1.01
- {re}Follow Romeoheree on instagram.
+ {re}Follow evilgodtermux on instagram.
    {cy}https://www.instagram.com/its.prince.roy/
         """)
 
